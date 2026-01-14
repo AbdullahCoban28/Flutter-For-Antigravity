@@ -18,9 +18,10 @@ Bu sistemde **herkesin tek bir işi** vardır. Kimse her işten anlamaz.
 | :--- | :--- | :--- | :--- |
 | **L0** | **Gateway** | `Requirements Architect` | Sizi karşılar, projenin brifini (Brief) çıkarır. |
 | **L1** | **Executive** | `CEO`, `CTO` | Strateji ve Teknoloji (Flutter, Firebase vb.) kararlarını verir. |
-| **L3** | **Product** | `Product Strategist` | **(Market Casusu)** Rakipleri analiz eder, "Nasıl kazanırız?" stratejisini kurar. |
-| **L4** | **Design** | `Head of UX`, `Kids UI`, `Business UI` | **Nano Banana Pro** uyumlu tasarımlar yapar. "Çocuklar için büyük buton" gibi detayları bilir. |
-| **L5** | **Dev** | `Tech Lead`, `Senior Dev`, `Localization Expert` | Kodu yazar. **Lokalizasyon Uzmanı**, Almanca/Arapça taşmalarını engeller. |
+| **L2** | **HR** | `HR Director` | **(Meta-Agent)** İhtiyaç duyulan yeni ajanı SIFIRDAN yaratır. |
+| **L3** | **Product** | `Product Strategist`, `Growth Hacker` | **(Market Casusu)** Rakipleri analiz eder, Viral büyüme kurgularını yapar. |
+| **L4** | **Design** | `Head of UX`, `UI Animator`, `Copywriter` | **Nano Banana Pro** uyumlu tasarım, Motion (Animasyon) ve UX Metin yazarlığı. |
+| **L5** | **Dev** | `Tech Lead`, `Security`, `Performance` | Kodu yazar, **Güvenlik (SecOps)** sağlar ve **60 FPS** performansını garantiler. |
 | **L6** | **QA** | `QA Lead`, `Policy Expert` | Her ekranı tüm dillerde test eder. **Apple/Google kurallarını** denetler. |
 
 ## 💰 Token Ekonomisi (Neden Daha Ucuz?)
